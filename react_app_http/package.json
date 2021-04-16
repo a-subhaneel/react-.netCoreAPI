@@ -10,13 +10,20 @@
     "@testing-library/react": "^11.2.6",
     "@testing-library/user-event": "^12.8.3",
     "axios": "^0.21.1",
+    "bootstrap": "^4.6.0",
     "classnames": "^2.3.1",
     "cors": "^2.8.5",
+    "message": "^0.0.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-form-with-constraints": "^0.16.0",
+    "react-hook-form": "^7.1.0",
     "react-scripts": "4.0.3",
+    "react-validation": "^3.0.7",
     "styled-components": "^5.2.3",
-    "web-vitals": "^1.1.1"
+    "validator": "^13.5.2",
+    "web-vitals": "^1.1.1",
+    "yup": "^0.32.9"
   },
   "scripts": {
     "start": "set PORT=13800 && react-scripts start",

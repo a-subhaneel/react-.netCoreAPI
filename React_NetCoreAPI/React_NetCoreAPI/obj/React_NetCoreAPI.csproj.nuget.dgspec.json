@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SubhaneelAgarwalla\\source\\repos\\React_NetCoreAPI\\React_NetCoreAPI\\React_NetCoreAPI.csproj": {}
+    "C:\\Users\\SubhaneelAgarwalla\\Desktop\\React_netAPI\\React_NetCoreAPI\\React_NetCoreAPI\\React_NetCoreAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SubhaneelAgarwalla\\source\\repos\\React_NetCoreAPI\\React_NetCoreAPI\\React_NetCoreAPI.csproj": {
+    "C:\\Users\\SubhaneelAgarwalla\\Desktop\\React_netAPI\\React_NetCoreAPI\\React_NetCoreAPI\\React_NetCoreAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SubhaneelAgarwalla\\source\\repos\\React_NetCoreAPI\\React_NetCoreAPI\\React_NetCoreAPI.csproj",
+        "projectUniqueName": "C:\\Users\\SubhaneelAgarwalla\\Desktop\\React_netAPI\\React_NetCoreAPI\\React_NetCoreAPI\\React_NetCoreAPI.csproj",
         "projectName": "React_NetCoreAPI",
-        "projectPath": "C:\\Users\\SubhaneelAgarwalla\\source\\repos\\React_NetCoreAPI\\React_NetCoreAPI\\React_NetCoreAPI.csproj",
+        "projectPath": "C:\\Users\\SubhaneelAgarwalla\\Desktop\\React_netAPI\\React_NetCoreAPI\\React_NetCoreAPI\\React_NetCoreAPI.csproj",
         "packagesPath": "C:\\Users\\SubhaneelAgarwalla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SubhaneelAgarwalla\\source\\repos\\React_NetCoreAPI\\React_NetCoreAPI\\obj\\",
+        "outputPath": "C:\\Users\\SubhaneelAgarwalla\\Desktop\\React_netAPI\\React_NetCoreAPI\\React_NetCoreAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
